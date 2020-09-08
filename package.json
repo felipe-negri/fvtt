@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "npm i -p /project/ && node /project/main.js --port=8080",
+    "start": "node index.js",
+    "start2": "npm i -p /project/ && node /project/main.js --port=8080",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
