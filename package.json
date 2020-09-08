@@ -1,0 +1,21 @@
+{
+  "name": "fvtt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm i -p /project/ && node /project/main.js --port=8080",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipe-negri/fvtt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felipe-negri/fvtt/issues"
+  },
+  "homepage": "https://github.com/felipe-negri/fvtt#readme"
+}
