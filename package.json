@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "npm i -p /project/foundry/;node /project/foundry/resources/app/main.js --port=8080",
+    "start": "npm i -p /project/foundry/resources/app/;node /project/foundry/resources/app/main.js --port=8080",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
