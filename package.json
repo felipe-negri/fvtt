@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node /project/foundry/resources/app/main.js --port=8080 --dataPath=/project/FoundryVTT/",
+    "start": "/project/node/bin/node /project/foundry/resources/app/main.js --port=8080 --dataPath=/project/FoundryVTT/",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
